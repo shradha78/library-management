@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="CustomTheme" parent="Theme.AppCompat.DayNight">
+
+
+        <item name="colorPrimary">#959595</item>
+        <item name="colorPrimaryDark">#AEAEAD</item>
+        <item name="colorAccent">#F6F6F3</item>
+    </style>
+    <style name="CustomStyle">
+        <item name="android:textSize">18dp</item>
+        <item name="fontFamily">cursive</item>
+    </style>
+    <style name="Theme.App.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorControlNormal">#d32f2f</item>
+        <item name="colorControlActivated">#ff5722</item>
+        <item name="colorControlHighlight">#f44336</item>
+    </style>
+    <style name="MyEditText" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@android:color/darker_gray</item>
+        <item name="colorControlActivated">@android:color/tab_indicator_text</item>
+    </style>
+</resources>

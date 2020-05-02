@@ -1,0 +1,83 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Library</string>
+    <string name="varanasi">Varanasi-Allahabad</string>
+    <string name="tap_on_the_image_to_continue">Tap on the image to continue</string>
+    <string name="welcome">Hello </string>
+    <string name="Select">Select your Region</string>
+    <string name="Lib1">AMIR-UD-DAULA PUBLIC LIBRARY</string>
+    <string name="address1"><![CDATA[ Kaiserbagh, Lucknow, UP 226001]]></string>
+    <string name="lib2">Name: GURUKUL STUDY ZONE LIBRARY</string>
+    <string name="address2"><![CDATA[Address:  C-24, K-Park, Mahanagar Extension, near Indian Oil Petrol Pump, Kapoorthala Road, Lucknow, UP 226006]]></string>
+    <string name="timings2"><![CDATA[Timings:  Mon - Sun 7:00 am - 11:00 pm]]></string>
+    <string name="services2"><![CDATA[Daily Newspaper, Magazines, Tea, Coffee, Filter Water, High-Speed Internet & Competitive Exam .Gurukul Study Zone library is the best place for the students preparing for civil services, medical, SSC & other competitive exams. They maintain a peaceful environment for the self-study for the aspiring minds. The library provides free Wi-Fi. Their library is equipped with all the facilities like high-speed Internet & RO water.]]></string>
+    <string name="lib3" >Name: THE READER\'S CHOICE LIBRARY</string>
+    <string name="address3">Address: Sector J, B-47 Sector-A, Sector L, Aliganj, Lucknow, UP 226024</string>
+    <string name="timings3">Timings: Open 24 Hours</string>
+    <string name="services3">The Reader\'s Choice Library has self-illuminated tables and comfortable chairs paid economical printing and photocopying facilities. They provide free Wi-Fi for instant internet access. The library also offers English, Hindi newspaper, competitive and educational magazines. You can bring your book and study. They are open for 24-hours.
+</string>
+    <string name="lib4">Name: INFINIAN</string>
+    <string name="address4">Address: both in ALIGANJ and ALAMBAGH</string>
+    <string name="timings4">Timings: Open 24 Hours</string>
+    <string name="services4">INFINIAN self study zone has centers both in ALIGANJ and ALAMBAGH .They are Nicely lit and have Daily newspapers, Magazines, Computers for speed Test, Motivational Novels, Competitive Exams Books, well ventilated, 24 hours study hall, Air Conditioned, high speed WiFi, CCTV surveillance, UPS power backup, nonvenomous chairs, shelves to place the books, clean washrooms , soundproof enclosure offering a calm and serene environment for those who are preparing for competitive exams like IAS, IPS, NEET, PG Medical, CA etc.
+</string>
+    <string name="lib5">Name: SCHOLAR\'S LIBRARY</string>
+    <string name="address5">Address:1st floor, sector P, D-78 A, near Beli Garad Chauraha Main Road,Sector Q, Aliganj,Lucknow, Uttar Pradesh 226024</string>
+    <string name="timings5">Timings: Monday-Sunday (7:00am to 10:30pm)</string>
+    <string name="services5">Scholar\'s Library has Wifi ,newspaper, ac, cafeteria and competitive exams books</string>
+    <string name="lib6">Name: KANPUR CENTRAL LIBRARY</string>
+    <string name="address6">Address: Kalyanpur,Kanpur</string>
+    <string name="timings6">Timings: Opens at 10am</string>
+    <string name="services6">Kanpur Central library is situated in the heart of the city in Kalyanpur. It is said to be a part of Chhatrapati Shahuji Maharaj University and is connected to the prestigious  campus. It is available in both online as well as offline mode. As in the ones who are able to access the library physically can go to the college campus comprising the library which is enriched with great potential and resources of unending knowledge as an offering for its people. Along with this they also have their official website which can be accessed by those who are although unable to go to the library personally but can without a doubt make use of the technology and digitalisation to have an edge over the others and opens at 10 AM
+</string>
+<string name="lib7">Name: HBTU CENTRAL LIBRARY</string>
+    <string name="address7">Address: Inside HBTU campus,Nawabganj,Kanpur</string>
+    <string name="timings7">Timings: Opens at 10am</string>
+    <string name="services7">As the name itself indicates the major contributing factor which is responsible for helping this library to make a significant position for itself as one of the top 10 libraries of Kanpur. The library is located inside the HBTU campus located in the eastern side of Nawabganj area in Kanpur. The location also serves as a major plus point for the place as it can be easily accessed by its readers. The ones who are more comfortable in going personally are assisted with great connectivity to the area from 10 Am onwards. Along with this, the rest can also make use of the official website by obtaining the membership and sometimes even without it can gain enough knowledge about different concepts</string>
+     <string name="lib8">Name: PK KELKAR LIBRARY</string>
+    <string name="address8">Address: Kalyanpur,Kanpur</string>
+    <string name="timings8">Timings: Opens at 8am</string>
+    <string name="services8">The library possesses the best and most updated resources of knowledge for its receivers from all modes something makes the concept really different. And is a centre of attraction for its enormous knowledge hub like an aura. The library can be accessed from 8 AM onwards by its eager knowledge seekers.</string>
+   <string name="lib9">Name: CONCEPT LIBRARY</string>
+    <string name="address9">Address: Lakhanpur,Kanpur</string>
+    <string name="timings9">Timings: Opens at 10am</string>
+    <string name="services9">It is definitely one of the top 10 libraries in Kanpur situated in Lakhanpur region of Kanpur and opens at 10 Am. It is able to provide the knowledge resources to such an extent that more and more people can be benefited from the vast knowledge resources. It has been rated approximately 3 out of 5 stars as per Google ratings.</string>
+    <string name="lib10">Name: KANPUR PUBLIC LIBRARY</string>
+    <string name="address10">Address: Lalimili Chauraha in Chunniganj,Kanpur </string>
+    <string name="timings10">Timings: Opens at 8am</string>
+    <string name="services10">Kanpur Public Library is located at Lalimili Chauraha in Chunniganj area of the city and is known to be a prominent occupant of top 10 libraries in Kanpur. The reason being it is open for everyone in the city who are free to access the library with help of membership and can have unending access to all the great information as per their requirements from 8 Am onwards.</string>
+   <string name="lib11">Name: GOVERNMENT DISTRICT LIBRARY</string>
+    <string name="address11">Address: Ardali Bazar Road LT College Campus, Orderly Bazar, Varanasi, UP 221002</string>
+    <string name="timings11">Timings: Mon - Sat 5:30 am - 7:00 pm ,Sunday Closed</string>
+    <string name="services11">Government District Library has basic amenities like parking and RO water facilities. They maintain a peaceful and green zone that helps the readers to read the books without any disturbance. The library is open for the public and helps especially for the people who seek competitive exams to examine the peaceful reading experience.</string>
+    <string name="lib12">Name: KARMAICAL LIBRARY ASSOCIATION</string>
+    <string name="address12">Address:  Godowlia Road, Jalans, Gyanwapi, Opposite Sandhya Sarees, Harha, Varanasi, UP 221001</string>
+    <string name="lib13">Name: KASHIKATHA LIBRARY</string>
+    <string name="timings12">Timings:  Mon - Sun 10:00 am - 6:30 pm</string>
+    <string name="services12">Karmaical Library Association is one of the old libraries in Varanasi and surrounding areas. The library has a wide range of books from various genres and also has the latest published books at an affordable cost. They contain different books that suites for all age groups.</string>
+ <string name="address13">Address: Kashikatha Library, Ramnagar, Kodopur, Varanasi, UP 221008</string>
+    <string name="timings13">Timings:  Mon - Sat 7:00 am - 5:00 pm, Sunday Closed</string>
+    <string name="services13">Kashikatha Library provides a wide variety of books for all age groups. They make sure to offer you the best combination of well-stocked library and tranquil reading room for the peaceful reading experience. Their zero noise zone helps them to stand out from already existing Libraries in Varanasi</string>
+    <string name="lib14">Name: SHREE VISHVANATH PUSTAKALAYA</string>
+    <string name="address14">Address: Lalita Ghat,Varanasi</string>
+    <string name="timings14">Timings: Monday-Saturday(10.30am- 5pm)</string>
+    <string name="services14">Shree Vishvnath Pustakalaya issues maximum of 2 books for 15 days.There is no installation of computers and no library automation.It has a total collection of 10000 books in various languages like Sanskrit, Hindi, English, Urdu, German, French, Nepali, Pali, Tamil and Telgu.The newspaper preservation policy is of last 6 months.</string>
+    <string name="lib15">Name: SHARSWATI SADAN PUSTAKALAYA</string>
+    <string name="address15">Address: Chetgang,Varanasi</string>
+    <string name="timings15">Timings: Monday-Saturday(9:10am.- 2pm)</string>
+    <string name="services15">Sharswati Sadan Pustakalaya has no installation of computers and no library automation.It has a total collection of 5000 books in various languages like Sanskrit, Hindi, English and Urdu.The newspaper preservation policy is of last 2 months.</string>
+    <string name="lib16">Name: ALLAHABAD PUBLIC LIBRARY</string>
+    <string name="address16">Address: Chandra Sekhar Azad Park, Allahabad, UP 211002</string>
+    <string name="timings16">Timings: Fri - Wed 8:00 am - 6:00 pm ,Thursday Closed</string>
+    <string name="services16">Allahabad Public Library provides a wide range of books, magazines, newspapers and other study materials in Hindi, English, Sanskrit, Urdu, Arabic, Persian, Bengali, French and other languages for all ages. The library caters the informational, educational and recreational need of library users and society. They offer quality library services to all readers with a positive attitude and strive to earn the trust and confidence of all readers. They also demonstrate friendliness, reliability and proactiveness to offering timely services.It has a collection of about 1.25 lakh books on various subjects like Reprographics Services, IAS, PCS, UGC-NET, SSC, Railway, Bank, Engineering, Medical Book, Reference Service and Manuscripts
+.It has rare Arabic manuscripts along with papers of Parliament</string>
+    <string name="lib17">Name: CENTRAL STATE LIBRARY</string>
+    <string name="address17">Address: Central State Library, North Malaka, Near Durga Temple, Allahabad, UP 211001</string>
+    <string name="timings17">Timings: Wed - Mon 8:00 am - 5:00 pm , Tuesday Closed</string>
+    <string name="services17">Central State Library has a vast collection of Hindi books. They also have a separate AC room for newspaper reading. The library also has a separate room for children. The staffs at the library are aware of the latest published books to provide the current trend books like Literature, Periodicals, English Books, Comics and Graphic Novels, Children Books, Competitive Exams, Crime, Travel, Horror, Science and  Fiction Books.
+</string>
+ <string name="lib18">Name: LAKSHYA LIBRARY</string>
+    <string name="address18">Address:  9, Manmohan Park Road, Above Muthooth Finance, Old Katra, Allahabad, UP 211002</string>
+    <string name="timings18">Timings:  Mon - Sun 7:00 am - 11:00 pm</string>
+    <string name="services18"> Lakshya Library has a fully air-conditioned, blower facility during the winter season, CCTV surveillance and has a separate seat for girls. The library maintains a zero noise environment to provide the readers with the disturbance-free reading experience.It has a collection of Periodicals, Magazines, Novels, History Books, Non-Fiction Book, Classic, History, Art, Poetry, Audiobooks, Fiction Book, Hindi Books and Newspaper
+    </string>
+</resources>

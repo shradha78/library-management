@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F8F7"
+    tools:context=".StateSelectionActivity">
+
+    <EditText
+        android:id="@+id/enteryourname_ID"
+        android:layout_width="309dp"
+        android:layout_height="44dp"
+        android:autofillHints=""
+        android:cursorVisible="true"
+        android:drawableBottom="#ff5722"
+        android:ems="10"
+        android:focusable="true"
+        android:gravity="center_horizontal"
+        android:hint="Enter Your Name"
+        android:paddingLeft="10dp"
+        android:shadowColor="#2E2C2C"
+        android:textAlignment="center"
+        android:textColorHighlight="#ff5722"
+        android:textColorHint="#4E4E53"
+        android:textCursorDrawable="@drawable/custom_cursor"
+        android:theme="@style/MyEditText"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="@+id/StateSelect_id"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.457"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.38" />
+
+    <RadioGroup
+        android:id="@+id/States_Id"
+        android:layout_width="169dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="35dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.537"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/StateSelect_id"
+        app:layout_constraintVertical_bias="0.0">
+
+        <RadioButton
+            android:id="@+id/LkoKanpur_Id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lucknow-Kanpur"
+            android:visibility="visible" />
+
+        <RadioButton
+            android:id="@+id/VaranasiAllahabad_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/varanasi"
+            android:visibility="visible" />
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/StateSelect_id"
+        android:layout_width="359dp"
+        android:layout_height="68dp"
+        android:gravity="center_horizontal"
+        android:text="Select Region"
+        android:textAlignment="center"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/enteryourname_ID" />
+
+    <Button
+        android:id="@+id/enterbutton_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter"
+        app:layout_constraintBottom_toTopOf="@+id/StateSelect_id"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/enteryourname_ID"
+        app:layout_constraintVertical_bias="0.122" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
